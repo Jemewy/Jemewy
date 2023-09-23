@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jemewy, a Fronted developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Jemewy, a Fronted developer 🚀</div>  
   
 
 - 🔭 I am currently working on my website  
