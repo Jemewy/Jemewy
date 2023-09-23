@@ -58,7 +58,8 @@
 <div align="center">
 <a href="https://github.com/Jemewy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https:/ /discord.gg/1!#0920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/ images/icons/Social/discord.svg" alt="1!#0920" height="30" width="40" /></a>
 </div>  
   
 
