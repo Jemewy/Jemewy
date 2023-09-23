@@ -1,11 +1,6 @@
 <div align="center">
 <img src="https://media.discordapp.net/attachments/1035094897637720084/1155099016456048710/banner-1.png?width=787&height=225" clss="img"/>
   <style>
-    .img{
-    border-radius: 100px; /* Радиус скругления */
-    border: 3px solid green; /* Параметры рамки */
-    box-shadow: 0 0 7px #666; /* Параметры тени */
-       }
   </style>
 </div>  
   
