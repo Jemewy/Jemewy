@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.discordapp.net/attachments/1035094897637720084/1155099016456048710/banner-1.png?width=787&height=225" border-radius: 10px;/>
+<img src="https://media.discordapp.net/attachments/1035094897637720084/1155099016456048710/banner-1.png?width=787&height=225" clss="img"/>
 </div>  
   
 
