@@ -102,4 +102,3 @@ If things goes well, this section should automatically be replaced by a list of 
   
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
