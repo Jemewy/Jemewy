@@ -82,10 +82,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jemewy&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jemewy&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
-<div align="center"><img src="" align="left" /></div>  
-<div align="center"><img src= align="right" /></div>  
-
-
 <br/>  
 
 
